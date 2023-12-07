@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raymond Provost
-- 🏫 I'm currently a student at Regis High School in New York, NY
+- 🏫 I'm currently a student at Caltech ('27)
 - 📫 My Email: ray710mond@gmail.com
 - 👨🏾‍💻 I know Java, Python, and some html
 <!---
